@@ -26,7 +26,7 @@ This project explores 17 months of personal YouTube watch history (Feb 2025 – 
 
 ### Q1: What percentage of my watched videos are from subscriptions?
 
-**Methodology:** Summed the number of rows within the subscription column and divided it by the number of rows in the dataset (`sum()` and `len()`). I then converted that value into a percentage for printing.
+**Methodology:** Summed the number of rows within the subscription column and divided it by the number of rows in the dataset (`.sum()` and `.len()`). I then converted that value into a percentage for printing.
 
 **Finding:** Only 21.8% of videos watched came from subscribed channels.
 
