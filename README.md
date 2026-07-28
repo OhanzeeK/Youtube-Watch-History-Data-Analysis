@@ -1,6 +1,8 @@
 # YouTube Watch History — Viewing Habits Analysis
 
-**Author:** Ohanzee Karneh **Tools:** Python (Pandas, Matplotlib) | Jupyter Notebook **Data Source:** Personal YouTube data exported via [Google Takeout](https://takeout.google.com/) (JSON + CSV)
+**Author:** Ohanzee Karneh 
+**Tools:** Python (Pandas, Matplotlib) | Jupyter Notebook 
+**Data Source:** Personal YouTube data exported via [Google Takeout](https://takeout.google.com/) (JSON + CSV)
 
 ---
 
